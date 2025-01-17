@@ -62,10 +62,6 @@ Vertex cover: {1, 3, 4}
 - This is a greedy approximation algorithm, so the solution may not be optimal for all graphs.
 - Works only on undirected graphs.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ---
 
 Feel free to contribute by submitting issues or pull requests to improve the implementation.
